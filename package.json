@@ -1,0 +1,23 @@
+{
+	
+    "name": "simpel",
+    
+    "version": "1.0.0",
+    
+    "author": {
+        "name": "Eki Baskoro",
+        "email": "eki@baskoro.org",
+        "url": "http://www.baskoro.org/SIMPEL"
+    },
+    
+    "main": "server.js",
+    
+    "dependencies": {
+        "mssql": ">0.5.3",
+        "express": "~3.2.4",
+        "jade": "~1.3.1",
+        "less-middleware": ">=1.0.3",
+        "mysql": "~2.3.2"
+    }
+	
+}
